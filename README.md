@@ -15,3 +15,13 @@ pip install -r requirements.txt
 ```
 
 **Note:** External tools required for molecular docking, such as rDock, must be installed and configured separately.
+
+##  Citation
+Please cite:
+Sharma, A. et al. (2026). Expanding the Chemical Landscape of Pks13 Inhibitors Through Language-Based Deep Generative Modeling. [Manuscript under review]
+
+##  Contact
+For queries, suggestions, or collaborations:
+
+### Dr. Anju Sharma
+anjusharma.online@gmail.com
