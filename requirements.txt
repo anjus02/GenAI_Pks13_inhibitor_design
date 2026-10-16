@@ -1,0 +1,6 @@
+# Python version: 3.11.4
+rdkit==2025.9.4
+torch==2.7.1
+transformers==4.57.3
+selfies==2.2.0
+scikit-learn==1.7.0
